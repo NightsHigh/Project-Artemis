@@ -45,6 +45,10 @@ Inside your project folder, run:
 
 
 
+### To Do
+1. Create MongoDB database to store the events created for the specific user. 
+2. Load the specific id for that said event from the database
+3. Load that id in the n8n and use that to delete and edit the specific events.
 
 
 ```bash
