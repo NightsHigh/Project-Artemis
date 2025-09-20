@@ -45,7 +45,6 @@ Inside your project folder, run:
 
 ### For the calender event scheduling
 
-
 ## 1. Create an account with n8m
 
 ## 2. Create a project
@@ -57,6 +56,15 @@ Inside your project folder, run:
 4. Add the url to the .env in the following format "WEBHOOK_URL="https://InsertYourProjectName.app.n8n.cloud/webhook/yourCreateName/CustomEventName" remember to save it as a string.
 5. Save.
 
+### For the docker desktop
+
+## 1.  Install docker desktop via their official website https://www.docker.com/products/docker-desktop/
+
+## 2. Install the latest n8n for docker.
+
+## 3. Login into the locally ran docker on localhost. 
+
+## 4. Create the workflow for the calender refer to "For the calender event scheduling" "3."
 
 ```bash
 npm install
