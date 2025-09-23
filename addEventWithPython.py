@@ -1,7 +1,5 @@
 import os
-import openai
 import requests
-import re
 from dotenv import load_dotenv
 
 load_dotenv()
